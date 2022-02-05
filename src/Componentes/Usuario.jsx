@@ -12,7 +12,6 @@ class Usuario extends React.Component {
             avatar: this.props.avatar,
             name: this.props.first_name,
             mostrarPrimerNombre: true,
-
         }
     }
 
